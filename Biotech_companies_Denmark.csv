@@ -1,0 +1,696 @@
+"","Company","Address","Lat","Long"
+"1","AdaptVac ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"2","BGI EUROPE A/S","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"3","Clinical-Microbiomics A/S","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"4","Selskabet af 27. juni 1997 ApS","Gartnerhaven 5, 6823 Ansager",8.754698,55.706107
+"5","Embark Biotech ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"6","ALPHALYSE A/S","Rødegårdsvej 209 C 1, 5230 Odense M",10.4243426,55.3777661
+"7","AMPLIQON A/S","Stenhuggervej 22, 5230 Odense M",10.419013,55.379057
+"8","Eurofins Genomics Denmark A/S","Smedeskovvej 38, 8464 Galten",9.915306,56.15924
+"9","BIOPORTO A/S","Tuborg Havnevej 15 st, 2900 Hellerup",12.582695,55.726812
+"10","CysBio ApS","Agern Alle 1, 2970 Hørsholm",12.492919,55.872775
+"11","Fida Biosystems ApS","Generatorvej 6 1, 2860 Søborg",12.466796,55.730498
+"12","Sanos A/S","Herlev Hovedgade 82, 2730 Herlev",12.445685,55.721845
+"13","GRUNDFOS BIOBOOSTER A/S","Randersvej 22 A, 8870 Langå",9.9001885,56.3984159
+"14","BioXpedia A/S","Palle Juul-Jensens Boulevard 82, 8200 Aarhus N",NA,NA
+"15","INMOLD A/S","Savsvinget 4, 2970 Hørsholm",12.492466,55.901517
+"16","VISIANA ApS","Fremtidsvej 1, 2970 Hørsholm",12.488666,55.869072
+"17","GALECTO BIOTECH ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"18","IMMUNITRACK ApS","Lersø Parkallé 42 4, 2100 København Ø",12.556947,55.707777
+"19","CiVi Biopharma A/S","Sundkrogsgade 21, 2100 København Ø",12.592722,55.713556
+"20","BIOVANTAGE.DK ApS","Skindergade 15, 1159 København K",12.575536,55.680342
+"21","AQUAPORIN A/S","Nymøllevej 78, 2800 Kgs. Lyngby",12.522991,55.800266
+"22","Qlife ApS","Borupvang 3, 2750 Ballerup",12.383222,55.73255
+"23","TAG COPENHAGEN A/S","Kong Georgs Vej 12 B, 2000 Frederiksberg",12.5324821,55.6886708
+"24","Artisan Research Labs ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"25","2cureX A/S","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"26","Hoba Therapeutics ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"27","Zentexia ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"28","PanCryos ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"29","BIOSYNERGY A/S","Østerhovedvej 4, 5700 Svendborg",10.468692,55.006346
+"30","Omiics ApS","Åbogade 15, 8200 Aarhus N",10.187798,56.172331
+"31","Unseen Biometrics ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"32","SILMECO ApS","Kenny Drews Vej 101 3 3, 2450 København SV",12.552035,55.644762
+"33","AVP BioPharma Consult ApS","Teknikerbyen 5 1, 2830 Virum",12.495471,55.800083
+"34","HOEJMARK GROUP A/S","Adelvej 11, 6940 Lem St",8.398529,56.054178
+"35","Save Stemcell Center ApS","Sorøvej 108, 4200 Slagelse",11.410814,55.417248
+"36","PHARMA EVIDENCE ApS","Sommervej 9, 3520 Farum",12.407308,55.814993
+"37","RE Energy Properties A/S","Slotsherrensvej 411 B, 2610 Rødovre",12.4509186,55.7014756
+"38","ME-TA ApS","Hollandsvej 12 3, 2800 Kongens Lyngby",12.5090453,55.7657632
+"39","BIOMEDIQ A/S","Strandlinien 59, 2791 Dragør",12.674427,55.591342
+"40","Consibio ApS","Sindalsvej 37 st, 8240 Risskov",10.217247,56.208203
+"41","C- ApS","Margrethevej 20, 2900 Hellerup",12.570431,55.734748
+"42","GREATOP SCIENCE &amp; TECHNOLOGY DEVELOPMENT (DENMARK) ApS","Østerøvej 113, 5800 Nyborg",10.816767,55.310212
+"43","Dianox ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"44","Octarine Bio ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"45","PreDiagnose ApS","Snedkergangen 4 D, 2690 Karlslunde",12.2356659,55.5717338
+"46","Torleif Science ApS","Holcks Plads 14 1, 2700 Brønshøj",12.4962465,55.7058727
+"47","RIBOTASK ApS","Blækhatten 33, 5220 Odense SØ",10.461778,55.365686
+"48","C4PAIN ApS","M.A. Schultz Vej 7, 9000 Aalborg",9.899963,57.043891
+"49","MT-MicroSearch ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"50","Medbroker ApS","Hovedgaden 20, 4621 Gadstrup",12.096114,55.571302
+"51","XY Therapeutics ApS","Rosenstandsvej 17 A, 2920 Charlottenlund",12.5653218,55.7586672
+"52","PLASTISENS ApS","Kronprinsessegade 40 3, 1306 København K",12.582844,55.684944
+"53","CASAD &amp; ASSOCIATES ApS","H.C. Ørsteds Vej 50 C, 1879 Frederiksberg C",NA,NA
+"54","CURO Diagnostics ApS","Tværledet 33, 2880 Bagsværd",12.460593,55.763884
+"55","EEGTRAINING NORD ApS","Vindfløjen 38, 9380 Vestbjerg",9.952899,57.13436
+"56","STRADEVO A/S","Langelinie Allé 29 3 tv, 2100 København Ø",12.59988,55.698936
+"57","HOLM CHRISTENSEN BIOSYSTEMER ApS","Odinshøjvej 116, 3140 Ålsgårde",12.522118,56.083406
+"58","EntoMass ApS","Løkkensvej 696, 9480 Løkken",9.819518,57.417963
+"59","JKastrup.ApS","Kajerødgård 9, 3460 Birkerød",12.422623,55.846381
+"60","Biogenity ApS","Niels Jernes Vej 10, 9220 Aalborg Øst",9.988313,57.012738
+"61","Suresh Rattan ApS","Jens Baggesens Vej 112 1 th, 8200 Aarhus N",10.197285,56.171068
+"62","ByLykke ApS","Jernbanegade 19 2, 9000 Aalborg",9.9153867,57.0458661
+"63","FUTURE ENERGY TECHNOLOGIES ApS","Sarpsborgvej 12, 7600 Struer",8.568567,56.49346
+"64","Camilla Gustafsen Holding ApS","Langelandsgade 19, 8000 Aarhus C",10.198168,56.159082
+"65","MHJ Research ApS","Høyrups Alle 20, 2900 Hellerup",12.579837,55.73925
+"66","VITROX ApS","Åkrogs Strandvej 29 A, 8240 Risskov",10.2711113,56.2018417
+"67","L Folkersen Holding ApS","Christoffers Alle 151, 2800 Kongens Lyngby",12.47613,55.755637
+"68","BACTICON ApS","Stengårds Alle 31 A, 2800 Kgs. Lyngby",12.485115,55.765287
+"69","Mosspiration Biotech ApS","Mellemvang 14 B, 2970 Hørsholm",12.5082169,55.8787735
+"70","REDO-Neurosystems ApS","Fredrik Bajers Vej 300, 9220 Aalborg Øst",9.980742,57.015083
+"71","AVA Genomics Consultancy ApS","Ålegårdsvej 63, 2740 Skovlunde",12.401883,55.72825
+"72","Isanans Pharma ApS","Oscar Ellingers Vej 14, 2000 Frederiksberg",12.515512,55.688059
+"73","Henrik Wendler Coaching ApS","Bohrsgade 2 26 2, 1799 København V",12.535591,55.663684
+"74","VenomAid Diagnostics ApS","Elektrovej 331, 2800 Kongens Lyngby",12.513566,55.783613
+"75","GeCo ApS","Jægersborgvej 32, 2800 Kongens Lyngby",12.514263,55.765679
+"76","pond Textile A/S","Balticagade 24, 8000 Aarhus C",10.22157,56.156422
+"77","Lophora ApS","Lersø Parkallé 107, 2100 København Ø",12.547055,55.714625
+"78","CURASIGHT A/S","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"79","Cirqle Biomedical Contraception ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"80","ONCORAL PHARMA ApS","Klampenborgvej 248 1 mf, 2800 Kongens Lyngby",12.504395,55.770714
+"81","Stemmedical A/S","Gyngemose Parkvej 50, 2860 Søborg",12.476164,55.726267
+"82","PokeAcell ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"83","AVILEX PHARMA ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"84","STIPE Therapeutics ApS","Inge Lehmanns Gade 10, 8000 Aarhus C",10.215199,56.159024
+"85","Blue Cell Therapeutics ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"86","INPROTHER ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"87","XcelCyte A/S","Venlighedsvej 6, 2970 Hørsholm",12.49426,55.873689
+"88","OK BIOTECH ApS","Skæring Strandvej 36, 8250 Egå",10.297603,56.220388
+"89","Fenucure Medical ApS","Nymøllevej 50, 2800 Kongens Lyngby",12.518041,55.800646
+"90","Teitur Trophics ApS","Hjortshøjvangen 112, 8530 Hjortshøj",10.275501,56.252863
+"91","CHRETO ApS","Lejrvej 17 1 mf, 3500 Værløse",12.328485,55.783408
+"92","Swedish Biomimetics 3000 ApS","Amaliegade 3, 1256 København K",12.591398,55.68218
+"93","AimVion A/S","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"94","LACTOBIO A/S","Lersø Parkallé 42 2, 2100 København Ø",12.556947,55.707777
+"95","Ankrin Therapeutics ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"96","BioVices IPR Holding ApS","Vingårdstræde 18, 1070 København K",12.58287,55.678615
+"97","Asarina Pharma ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"98","CBio A/S","Transformervej 8, 2860 Søborg",12.465417,55.732936
+"99","Selma Diagnostics ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"100","BioPhero ApS","Lersø Parkallé 42 4, 2100 København Ø",12.556947,55.707777
+"101","Azebiotics ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"102","BUHL KRONE HOLDING ApS","Skovbakken 54, 3520 Farum",12.397383,55.808327
+"103","Orbit Project ApS","Teglgårdstræde 8 B 1, 1452 København K",12.5675035,55.6801869
+"104","Pephexia Therapeutics ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"105","QNTM Labs ApS","Unsbjergvej 4 A, 5220 Odense SØ",10.4594105,55.3657477
+"106","DIET4LIFE ApS","Bygaden 45, 8450 Hammel",9.922812,56.300192
+"107","LIPLASOME PHARMA ApS","Tabletvej 1, 7100 Vejle",9.593855,55.736277
+"108","Tech 2 Art A/S","Flyvervej 11, 5700 Svendborg",10.568929,55.013725
+"109","LEGOMICS ApS","Borgskrivervej 3 2 th, 2400 København NV",12.538408,55.709008
+"110","EVOLVA BIOTECH A/S","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"111","THERAZONE ApS","Nordvænget 9, 2791 Dragør",12.670153,55.601769
+"112","BioPlus ApS","Kajakvej 2, 2770 Kastrup",12.653931,55.637335
+"113","Skandinavisk Cryo Teknik Aps","Knudlundvej 1, 8653 Them",9.577084,56.102187
+"114","Bio Bond ApS","Skovvejen 121, 8000 Aarhus C",10.218261,56.168028
+"115","UniBio Russia ApS","Langebjerg 1, 4000 Roskilde",12.145912,55.646568
+"116","Cellugy ApS","Bautavej 1 A, 8210 Aarhus V",10.146801,56.167022
+"117","7TM A/S","Fredensvej 45, 2970 Hørsholm",12.517689,55.890844
+"118","ESTIBIO ApS","Brydehusvej 28, 2750 Ballerup",12.374799,55.727983
+"119","BIOGALACID ApS","Kystvejen 214, 4671 Strøby",12.28716,55.405466
+"120","PIXIEGENE A/S","Axeltorv 3, 1609 København V",12.564111,55.675659
+"121","Eurofins Safer At Work Nordics A/S","Smedeskovvej 38, 8464 Galten",9.915306,56.15924
+"122","HHC Medical ApS","Hammersholt Byvej 4, 3400 Hillerød",12.327157,55.89599
+"123","BIO-Y A/S","Nordlysvænget 10 A, 3000 Helsingør",12.6119414,56.0399673
+"124","MiniGut ApS","Dr Neergaards Vej 3 1, 2970 Hørsholm",NA,NA
+"125","DM CONSULTING ApS","Strandvejen 198 C, 3070 Snekkersten",12.5894406,56.0092409
+"126","Aesculus Bio ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"127","Unibio KSA ApS","Langebjerg 1, 4000 Roskilde",12.145912,55.646568
+"128","Beatsco2 ApS","Ordrupvej 109 st th, 2920 Charlottenlund",12.572231,55.760348
+"129","Genym Investment Group ApS","Furesøgårdsvej 12, 3520 Farum",12.394944,55.822207
+"130","MLMC Therapeutics ApS","Artillerivej 86 1, 2300 København S",12.577975,55.662124
+"131","BPBD CONSULT ApS","Egernvej 69, 2000 Frederiksberg",12.522372,55.691146
+"132","M-FIELD ENERGY ApS","Majsmarken 1, 9500 Hobro",9.795555,56.654483
+"133","Peder Søndergaard Madsen Holding ApS","Krogagre 9, 8240 Risskov",10.210202,56.207396
+"134","RiiD IVS","Bøssemagergade 15 st th, 3150 Hellebæk",12.556197,56.069714
+"135","HAT_CPH_Holding ApS","Engholmvej 3, 3660 Stenløse",12.198631,55.767261
+"136","MARTECH ApS","Havnegade 36 2, 5000 Odense C",10.380924,55.414121
+"137","Lindhardt Holdings ApS","Slettehavevej 77, 4690 Haslev",11.996031,55.278268
+"138","AndStats II ApS","Aurikelvej 20, 2000 Frederiksberg",12.515391,55.669123
+"139","JENSEN BIOCONSULT ApS","Kagsløkke 1, 2700 Brønshøj",12.462901,55.716874
+"140","Covitest ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"141","ASML HOLDING ApS","Valmuemarken 16, 5260 Odense S",10.396684,55.367926
+"142","PETER HOLST CONSULTING ApS","Tolstojs Alle 14, 2860 Søborg",12.50779,55.739236
+"143","KRYSTOF HOLDING ApS","Tokkerodvej 21, 5260 Odense S",10.429142,55.310408
+"144","TRT INNOVATIONS APS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"145","WEXOTEC ApS","Holgersvej 15, 2920 Charlottenlund",12.565562,55.750246
+"146","KJ EXPORT ApS","Damsbrovej 53, 8382 Hinnerup",10.032056,56.249327
+"147","ANGIO ApS","Klampenborgvej 16, 2930 Klampenborg",12.578429,55.770914
+"148","BLUE Healthcare Investments ApS","Udsigten 9, 2950 Vedbæk",12.549983,55.859015
+"149","Agrofertil-International ApS","Bøgetvej 138, 4913 Horslunde",11.202228,54.943534
+"150","ASQARIHolding ApS","Kollelevbakken 33, 2830 Virum",12.461692,55.792516
+"151","Aquaporin A/S","Nymøllevej 78, 2800 Kongens Lyngby",12.522991,55.800266
+"152","Immudex ApS","Bredevej 2A, 2830 Virum",12.488544,55.790779
+"153","Gubra ApS","Agern Alle 1, 2970 Hørsholm",12.492919,55.872775
+"154","Eurofins Safer At Work Nordics A/S","Smedeskovvej 38, 8464 Galten",9.915306,56.15924
+"155","Lifescience Consulting v/Morten Heide","Gartnerhaven 12, 2800 Kongens Lyngby",12.488998,55.784342
+"156","W2ge ApS  Under Konkurs","Baldershøj 24C, st. th., 2635 Ishøj",11.44414,55.830349
+"157","Biomodics ApS","Stengårds Alle 31A, 2800 Kongens Lyngby",12.484907,55.760561
+"158","Inbicon Kalundborg","Asnæsvej 16, 4400 Kalundborg",11.07961,55.659725
+"159","Inbicon Gentofte","Nesa Allé 1, 2820 Gentofte",12.5166,55.757428
+"160","Bylykke ApS","Jernbanegade 19, 2., 9000 Aalborg",12.565085,55.675649
+"161","Sime Diagnostics ApS","Eremitageparken 301, 2800 Kongens Lyngby",12.534624,55.795045
+"162","Videncenter For Rehabilitering og Palliation","Vestergade 17, 5800 Nyborg",10.787127,55.316395
+"163","Grundfos Biobooster A/S","Randersvej 22A, 8870 Langå",9.900946,56.397546
+"164","Bacticon ApS","Stengårds Alle 31A, 2800 Kongens Lyngby",12.484907,55.760561
+"165","Grønland (Cas)","J.C. Jacobsens Gade 1, 1799 København V",NA,NA
+"166","Origio A/S","Rugmarken 10, 3650 Ølstykke",12.135413,55.761268
+"167","Inbicon Skærbæk","Klippehagevej 22, 7000 Fredericia",9.618162,55.512526
+"168","Symphogen A/S","Pederstrupvej 93, 2750 Ballerup",12.33159,55.730186
+"169","Wellflower Bio IVS  Under Konkurs","Teglgårdsvej 915, 1. th., 3050 Humlebæk",12.520693,55.955054
+"170","V-Biotek ApS","Industrivænget 22, 4622 Havdrup",12.126425,55.549881
+"171","Pond A/S","Balticagade 24, 8000 Aarhus C",10.22157,56.156422
+"172","Aros Applied Biotechnology A/S","Smedeskovvej 38, 8464 Galten",9.915306,56.15924
+"173","Innova","Borgmestervangen 10, 2200 København N",12.540004,55.701357
+"174","Tychobio IVS  Under Tvangsopløsning","H.P. Ørums Gade 23, st., 2100 København Ø",NA,NA
+"175","Gubra ApS","Hørsholm Kongevej 11B, 2970 Hørsholm",12.499877,55.868254
+"176","Karby Invest 2018 ApS  Under Tvangsopløsning","Næssundvej 436, 7960 Karby",8.566374,56.753379
+"177","Acutiz ApS","Vestre Skovvej 22B, 8240 Risskov",10.2250747,56.1838234
+"178","Betamab ApS  I Likvidation","Hørsholmvej 11, 3050 Humlebæk",12.492931,55.959145
+"179","Eyevi IVS  Under Konkurs","Jyllingevej 58, 4. th., 2720 Vanløse",12.483526,55.691899
+"180","Immunaware Ku","Blegdamsvej 3B, 7., 2200 København N",12.27712,54.97781
+"181","Zealand Pharma A/S","Smedeland 26B, 2600 Glostrup",12.392636,55.681486
+"182","Calpro As","Lyskær 3C, 1. tv., 2730 Herlev",12.4340347,55.7136483
+"183","Enduro Genetics ApS","Borups Allé 2, 2. th., 2200 København N",12.542608,55.689218
+"184","Genxtract ApS  Under Konkurs","Bymosevej 47, 8210 Aarhus V",10.147088,56.173853
+"185","Bii","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"186","Au Lab","Høegh-Guldbergs Gade 10, 8000 Aarhus C",NA,NA
+"187","Sanos A/S Vejle","Boulevarden 19G, 7100 Vejle",9.524452,55.708638
+"188","Sanos A/S Gandrup","Borgergade 39, 9362 Gandrup",10.180549,57.058303
+"189","Muna Therapeutics ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"190","2n Pharma ApS","Niels Jernes Vej 10, 9220 Aalborg Øst",9.988313,57.012738
+"191","Kalundborg","Asnæsvej 16, 4400 Kalundborg",11.07961,55.659725
+"192","Celvivo ApS","Ørbækvej 264, 5220 Odense SØ",10.439462,55.375656
+"193","Rkkp","Olof Palmes Allé 15, 8200 Aarhus N",10.187262,56.187253
+"194","Qlife ApS - Symbion","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"195","Qlife ApS - Randers","Messingvej 44, 8940 Randers SV",10.04975,56.432612
+"196","2n Pharma ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"197","Eurofins Genomics Europe Genotyping Screening","Brendstrupgårdsvej 21A, 8200 Aarhus N",10.1866101,56.1929214
+"198","Celvivo ApS - Værløse","Ny Vestergårdsvej 21, 3500 Værløse",12.362731,55.783304
+"199","Enduro Genetics ApS","Kemitorvet 220, 2800 Kongens Lyngby",12.52294,55.788847
+"200","Consibio","Algade 2D, 4281 Gørlev",11.232516,55.536886
+"201","Axeltorv 3","Axeltorv 3, 1609 København V",12.564111,55.675659
+"202","Grønhøj Skivevej 112","Grønhøj Skivevej 112, 7470 Karup J",9.178257,56.384632
+"203","Pentabase Kalundborg","Hovvejen 10, 4400 Kalundborg",11.12219,55.669873
+"204","SYMPHOGEN A/S","Pederstrupvej 93, 2750 Ballerup",12.33159,55.730186
+"205","AFFITECH A/S","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"206","Iso-D","Violvej 20, 8240 Risskov",10.244188,56.195602
+"207","Medakto","Tuborg Sundpark 10 1 tv, 2900 Hellerup",12.586517,55.726936
+"208","Stratesis v//Peter Kaastrup","Veksø Bygade 9, 3670 Veksø Sjælland",12.2399,55.754337
+"209","NUEVOLUTION A/S","Rønnegade 8 5, 2100 København Ø",12.557341,55.707567
+"210","AQUALIFE A/S","Gersonsvej 7, 2900 Hellerup",12.567432,55.733261
+"211","Karen Lise Krabbe v/ Karen Krabbe","Gammel Munkegade 4, 8000 Aarhus C",10.204386,56.159246
+"212","PHOTOCURE ASA","Lyskær 3 C-D, 2730 Herlev",12.4340347,55.7136483
+"213","Koncept v/Fl Dyremose","Vandværksvej 5, 4600 Køge",12.232815,55.397848
+"214","Konstruktionsfirmaet af 20 april 2008 v/Ove Hededam","Smørvråvej 5, 5462 Morud",10.191628,55.448166
+"215","From Consult","Tibberup Alle 37, 3500 Værløse",12.403428,55.757163
+"216","Allarity Therapeutics A/S","Venlighedsvej 1, 2970 Hørsholm",12.49632,55.872832
+"217","LH-research development and innovation","Sdr Bjalderupvej 5, 6870 Ølgod",8.56571,55.762724
+"218","MKE CONSULTING ApS","Rygårds Alle 51 1, 2900 Hellerup",12.5628107,55.7329808
+"219","Tarnow consulting","Helstedsvej 4 F, 3480 Fredensborg",12.3938193,55.9778469
+"220","Ditzel Consult","Søgade 4, 8660 Skanderborg",9.935078,56.031334
+"221","Bioorganic lead compounds ApS","Carl Th. Zahles Gade 16 3 th, 2300 København S",NA,NA
+"222","Biotracer","Willy Brandts Vej 23 1 1, 2450 København SV",12.562059,55.656879
+"223","Institute of Molecular Genetics (Prag Tjekkiet)","Strandlyst Alle 14, 2670 Greve",12.295341,55.57844
+"224","Panformatics","Nymarks Allé 147, 8320 Mårslet",10.163283,56.059752
+"225","Damsbo v/Peter Damsbo","Einar Holbølls Vej 4, 2920 Charlottenlund",12.569633,55.747766
+"226","SK Pharma Consulting","Højbjerg Vang 12, 2840 Holte",12.49125,55.826302
+"227","L Hartvig","Grønnevang 36, 2970 Hørsholm",12.515286,55.875497
+"228","Maria Fischer","Bakkehaven 10, 5330 Munkebo",10.547484,55.451724
+"229","OK Consulting v/Otto Kalliokoski","Blegdamsvej 3 B 1 1, 2200 København N",12.27712,54.97781
+"230","Medpace Sweden AB","Sundkrogsgade 21 1, 2100 København Ø",12.592722,55.713556
+"231","SIME DIAGNOSTICS ApS","Eremitageparken 301, 2800 Kgs.Lyngby",12.534624,55.795045
+"232","UrbanMycelium","Fælledvej 14 B 2 th, 2200 København N",10.108058,55.547727
+"233","Sciecorp","Marmorvej 9 C 1 th, 2100 København Ø",12.378567,55.259076
+"234","HSOProces","Højbjerg Vang 7, 2840 Holte",12.490463,55.825389
+"235","Takara Bio Europe S.A.S","Skindergade 7 2, 1159 København K",12.575882,55.680596
+"236","CRRC Wind Power (Shandong) CO Ltd RO","Frederiksborgvej 399, 4000 Roskilde",12.103063,55.692568
+"237","Bio Greenpower LTD","Kornmarksvej 20, 2605 Brøndby",12.37271,55.654124
+"238","Zinpro Animal Nutrition Europe Inc","Ovenvande 1 2 th, 8660 Skanderborg",9.928239,56.031245
+"239","Serendipity ht","Heimdalsgade 20 2 tv, 2200 København N",12.543386,55.701505
+"240","Jacob Engelbrecht Consulting","Vibekegade 3 1 th, 2100 København Ø",12.555626,55.706905
+"241","DNA-kønstest","Kongens Vænge 101, 3400 Hillerød",12.35358,55.937763
+"242","ZP HOLDING SPV K/S","Sydmarken 11, 2860 Søborg",12.483439,55.734253
+"243","ZP SPV 1 K/S","Sydmarken 11, 2860 Søborg",12.483439,55.734253
+"244","WELLFLOWER BIO IVS","Teglgårdsvej 915 1 th, 3050 Humlebæk",12.520693,55.955054
+"245","IO BIOTECH ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"246","BA Chemical Consulting ApS","Ålandsgade 18 4 th, 2300 København S",12.606344,55.662653
+"247","Morten Lorentz","Borgskrivervej 3 2 th, 2400 København NV",12.538408,55.709008
+"248","ExoLC","Gormsvej 11, 5800 Nyborg",10.802765,55.308103
+"249","MSci Invest Aps","Havkærparken 35, 8381 Tilst",10.118339,56.185892
+"250","Gothelf ApS","Espedalen 89, 8240 Risskov",10.221911,56.202289
+"251","Sumer","Engbovej 26, 9200 Aalborg SV",9.897017,57.005627
+"252","Bornspire","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"253","Life Science ApS","Marielystvej 11, 2000 Frederiksberg",12.500474,55.677268
+"254","Draupnir Bio ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"255","Scandion Oncology A/S","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"256","SAALI Biotechnologies Aps","Nygaardsvej 100, 8660 Skanderborg",10.027331,55.987742
+"257","Cantor Consulting","Vilvordevej 6, 2920 Charlottenlund",12.558869,55.759258
+"258","SYNKLINO A/S","Rådhusvej 13, 2920 Charlottenlund",12.571331,55.751829
+"259","Horizon Discovery Limited","Købmagergade 60 1 tv, 1150 København K",12.574913,55.681785
+"260","EgoDx ApS","Hareskovhvilevej 3, 3500 Værløse",12.373857,55.782834
+"261","pLabs Entertainment","Hjørringvej 241, 9750 Østervrå",10.30739,57.336854
+"262","Biobrandaware","Kaplevej 87, 2830 Virum",12.469601,55.786661
+"263","Veterinary Diagnostics A/S","Tuborg Havnevej 15 st, 2900 Hellerup",12.582695,55.726812
+"264","Wumpelmann Consulting ApS","Valby Tingsted 4 B 2 5, 2500 Valby",12.5145988,55.6652224
+"265","FluoGuide A/S","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"266","IBIO TECH ApS","Thad Jones Vej 6 st th, 2450 København SV",12.548848,55.646938
+"267","HICon","Egevej 16, 3400 Hillerød",12.291227,55.942912
+"268","SP-CONSULT","S.J. Hvarregaardsvej 24, 9492 Blokhus",NA,NA
+"269","epVIR ApS","Scherfigsvej 7, 2100 København Ø",12.57991,55.721895
+"270","Bioeconomy, Research and Advisory","Karensgade 5, 2500 Valby",12.518526,55.656406
+"271","M&amp;P Jeppesen ApS","Ejlstrupvej 40, 5200 Odense V",10.291759,55.398477
+"272","PRO-TECH-TOR","Svanevænget 8, 4060 Kirke Såby",11.868506,55.625017
+"273","KBResearch","Astersvej 19 st 3, 4000 Roskilde",12.0987,55.628283
+"274","OmicsDriven IVS","Østergade 76, 4340 Tølløse",11.773347,55.608777
+"275","The Froglet IVS","Himmerlandsgade 10 3 tv, 9000 Aalborg",9.940849,57.041541
+"276","Hjortshøj &amp; Møller Care","G.C. Amdrups Vej 5, 8200 Aarhus N",NA,NA
+"277","Calpro AS","Lyskær 3 C, 2730 Herlev",12.4340347,55.7136483
+"278","RON.DK","Skodshøjvej 1, 9610 Nørager",9.685684,56.700994
+"279","Brygudvikling","Langfreddal 36, 8471 Sabro",10.045318,56.210015
+"280","Bison Seqtech","Pæremosevej 57, 2750 Ballerup",12.386325,55.746969
+"281","Nordic Perspective I/S","Gyngemose Parkvej 46 3 th, 2860 Søborg",12.47561,55.725383
+"282","GenXtract ApS","Bymosevej 47, 8210 Aarhus V",10.147088,56.173853
+"283","POCD Labs","Ved Dammen 2 1, 2880 Bagsværd",12.4435654,55.7707972
+"284","Spiralsprout","Lundingsgade 12 3, 8000 Aarhus C",12.569967,55.693776
+"285","photonamic Nordic, filial af photonamic GmbH &amp; Co. KG., Tyskland","Allehelgensgade 3, 4000 Roskilde",12.081637,55.64079
+"286","Morten Weidner","Furesøparkalle 39, 3460 Birkerød",12.435892,55.821543
+"287","Biometrix","Haraldsgade 27 1 th, 2200 København N",12.551032,55.704965
+"288","Biozenergy Consulting","Ternevænget 47, 2791 Dragør",12.638292,55.584111
+"289","Novél Bioanalytics","Frederiksborgvej 174 2 th, 2400 København NV",12.531824,55.719514
+"290","Shimadzu Danmark Filial af Shimadzu Europa GmbH, Tyskland","Kongens Nytorv 26 3, 1050 København K",12.584993,55.681331
+"291","Curanthia Holdings ApS","Enghave 27, 2960 Rungsted Kyst",12.530776,55.886618
+"292","Saibomed","Rothesgade 8 1 tv, 2100 København Ø",12.579527,55.703394
+"293","IRW Consulting DK filial af IRW- Consulting AB, Sverige","Store Kongensgade 68, 1264 København K",12.587884,55.684281
+"294","Sidsel Støy","Vestre Strandallé 86, 8240 Risskov",10.226265,56.191041
+"295","Phage Factory","Slagelsegade 10 4 tv, 2100 København Ø",12.579876,55.698145
+"296","Chromexa ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"297","Sanos Group A/S","Herlev Hovedgade 82, 2730 Herlev",12.445685,55.721845
+"298","AgriGate","Ungarnsgade 4 st tv, 2300 København S",12.611919,55.665883
+"299","Zinitics","Præstebakken 21 1 th, 6700 Esbjerg",8.489584,55.472768
+"300","BioX Consulting","Danmarksvej 31 B, 2800 Kongens Lyngby",9.390757,56.453418
+"301","Green Biolab ApS","A.P. Møllers Allé 9 C, 2791 Dragør",12.6615906,55.6015334
+"302","GigaVax ApS","Kong Valdemars Vej 16, 2840 Holte",12.511224,55.815927
+"303","Carlos Casado Vazquez","Sæbjørnsvej 2 A, 2880 Bagsværd",12.4628749,55.7572235
+"304","CBV Consult","Blåbærhaven 20, 8520 Lystrup",10.247878,56.24428
+"305","SJM IP ApS","Forhåbningsholms Alle 19 1 th, 1904 Frederiksberg C",12.550221,55.676239
+"306","IFO ApS","Agertoften 20, 2820 Gentofte",12.51143,55.746044
+"307","Serpentides ApS","Rosenørns Alle 1 2, 1970 Frederiksberg C",12.557095,55.681668
+"308","Iprotein Biotech","Jyllandsvej 20, 4200 Slagelse",11.342978,55.395994
+"309","Stroebech Media ApS","Sommervænget 2, 3390 Hundested",11.869651,55.946903
+"310","IASO ApS","Lersø Parkallé 42 4, 2100 København Ø",12.556947,55.707777
+"311","KLMBio ApS","Virumvej 144, 2830 Virum",12.455083,55.788862
+"312","Synobody","Haraldsgade 104 1 th, 2100 København Ø",12.560065,55.709534
+"313","Virtual Pastures ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"314","Epitopia ApS","Lersø Parkallé 42 4, 2100 København Ø",12.556947,55.707777
+"315","Bak Sekventering","Kantorparken 29, 8240 Risskov",10.209412,56.1979201
+"316","Sophia Genetics SA","Krænhavs Sti 3, 7700 Thisted",8.482141,57.04191
+"317","A. Lai Consulting","Akelejehaven 22, 5500 Middelfart",9.761395,55.508824
+"318","AÏDA ONCOLOGY Aps","Turesensgade 3 5, 1368 København K",12.564068,55.681154
+"319","LOA Tech","Vejenbrødvej 53 A, 2980 Kokkedal",12.451806,55.9234875
+"320","e314genetics","H.C. Andersens Vej 17, 8230 Åbyhøj",10.15816,56.152868
+"321","Meat Tomorrow ApS","Nørre Allé 6 1 10, 2200 København N",12.561454,55.692936
+"322","Gjervig Consulting DMPK","Sofiegade 10 2 mf, 1418 København K",12.590264,55.67118
+"323","Algiecel ApS","Oslo Plads 2, 2100 København Ø",12.588239,55.692071
+"324","Ikkala","Margretheholmsvej 38 3 th, 1432 København K",12.615102,55.684582
+"325","Epoqe Pharma ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"326","Cystotech ApS","Peter Sabroes Gade 7, 8000 Aarhus C",10.210897,56.16674
+"327","PJL Life Sciences ApS","Sølystvej 5, 2930 Klampenborg",12.588799,55.768908
+"328","AutoFlow","Hartmannsvej 37 B, 2900 Hellerup",12.5658848,55.7417723
+"329","Neo Biopharm ApS","Kildegårdsvej 18 D, 2900 Hellerup",12.5577724,55.7351517
+"330","AngloDansk Medical ApS","Alexandriagade 1, 2150 Nordhavn",12.593572,55.712626
+"331","Tornøes og Høyrups Fond","Langegade 3 A 1, 5300 Kerteminde",10.6577907,55.4494452
+"332","SEGES Innovation Fonden","Agro Food Park 15, 8200 Aarhus N",10.159083,56.200064
+"333","MKR Finans APS","Langelinieparken 14 3 tv, 8000 Aarhus C",10.218824,56.165817
+"334","BioSpringbok ApS","Finsensvej 15 3 320, 2000 Frederiksberg",12.51862,55.681188
+"335","SEGES Innovation P/S","Agro Food Park 15, 8200 Aarhus N",10.159083,56.200064
+"336","BioPhenyx ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"337","Breakthrough Biotech Drift Aps","Vestervang 29 2 mf, 8000 Aarhus C",11.317823,55.973598
+"338","Warburg Oncology ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"339","EntomoWell","Skjulhøj Allé 22 E, 2720 Vanløse",12.4822198,55.6946249
+"340","Duvold Consulting ApS","Drogdensvej 20, 2791 Dragør",12.670674,55.59086
+"341","Ouisa Pharma ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"342","SvenBen BioTec","Emil Reesens Vej 9, 2820 Gentofte",12.547867,55.749607
+"343","KRÆFTENS BEKÆMPELSE","Strandboulevarden 49, 2100 København Ø",12.586216,55.702539
+"344","Carlsberg A/S","J.C. Jacobsens Gade 1, 1799 København V",NA,NA
+"345","BreedEx /Morten Helt Poulsen","Assendløsevejen 48, 4130 Viby Sjælland",12.000421,55.564254
+"346","FERRING PHARMACEUTICALS A/S","Amager Strandvej 405, 2770 Kastrup",12.6479787,55.6395213
+"347","LANDBRUG &amp; FØDEVARER F.M.B.A.","Axeltorv 3, 1609 København V",12.564111,55.675659
+"348","ROCHE INNOVATION CENTER COPENHAGEN A/S","Fremtidsvej 3, 2970 Hørsholm",12.487103,55.868876
+"349","ZEALAND PHARMA A/S","Sydmarken 11, 2860 Søborg",12.483439,55.734253
+"350","NORDIC BIOSCIENCE A/S","Herlev Hovedgade 205, 2730 Herlev",12.418955,55.725285
+"351","PENTABASE A/S","Petersmindevej 1 A, 5000 Odense C",9.519281,55.722249
+"352","ORIGIO A/S","Knardrupvej 2, 2760 Måløv",12.290144,55.755165
+"353","AZANTA DANMARK A/S","Kirsten Walthers Vej 8 A 2, 2500 Valby",12.5130492,55.6587585
+"354","GUBRA ApS","Hørsholm Kongevej 11 B, 2970 Hørsholm",12.4945676,55.8779406
+"355","BIONEER A/S","Kogle Alle 2, 2970 Hørsholm",12.49639,55.869304
+"356","VITROLIFE A/S","Jens Juuls Vej 20, 8260 Viby J",10.129252,56.112634
+"357","GLYCOM A/S","Kogle Alle 4, 2970 Hørsholm",12.495566,55.870343
+"358","Y-mAbs Therapeutics A/S","Agern Alle 11, 2970 Hørsholm",12.49382,55.871012
+"359","SOPHION BIOSCIENCE A/S","Baltorpvej 154, 2750 Ballerup",12.345387,55.729492
+"360","NBCD A/S","Herlev Hovedgade 82, 2730 Herlev",12.445685,55.721845
+"361","Eurofins Genomics Europe Genotyping A/S","Smedeskovvej 38, 8464 Galten",9.915306,56.15924
+"362","QIAGEN AARHUS A/S","Silkeborgvej 2, 8000 Aarhus C",10.192746,56.157485
+"363","PHARMACEUTICAL RESEARCH ASSOCIATES DENMARK ApS","Havneholmen 29, 1561 København V",12.56439,55.661851
+"364","Savara ApS","Tuborg Boulevard 12 4, 2900 Hellerup",12.5765281,55.7267905
+"365","MINERVA IMAGING ApS","Lyshøjvej 21, 3650 Ølstykke",12.141596,55.768135
+"366","INBICON A/S","Kraftværksvej 53, 7000 Fredericia",9.623871,55.515935
+"367","IMMUDEX ApS","Bredevej 2 A, 2830 Virum",12.4885501,55.7925546
+"368","Syneos Health Denmark ApS","Knud Højgaards Vej 9, 2860 Søborg",12.473623,55.732511
+"369","Evosep ApS","Buchwaldsgade 35 3, 5000 Odense C",10.389119,55.406401
+"370","PROXEON BIOSYSTEMS ApS","Kamstrupvej 90, 4000 Roskilde",12.079797,55.609156
+"371","VIPERGEN ApS","Gammel Kongevej 23 A 1, 1610 København V",12.556046,55.673666
+"372","HOUSETEST ApS","Petersmindevej 1 A, 5000 Odense C",9.519281,55.722249
+"373","Next Stage Ventures ApS","Gl Strandvej 250, 3050 Humlebæk",12.530381,55.948989
+"374","TOFT PLANTEFORÆDLING ApS","Smedevej 1, 7870 Roslev",8.927115,56.713622
+"375","BioScavenge ApS","Algade 2 D, 4281 Gørlev",11.225405,55.5401685
+"376","AbtBioConsult ApS","Lille Sverige Vej 7 A, 3400 Hillerød",12.3357317,55.9033363
+"377","River Stone Biotech ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"378","Ranger Biotechnologies A/S","C.F. Tietgens Boulevard 30 A st th, 5220 Odense SØ",NA,NA
+"379","immunAware ApS","Agern Alle 1, 2970 Hørsholm",12.492919,55.872775
+"380","LIVAG ApS","Udsigten 9, 2950 Vedbæk",12.549983,55.859015
+"381","CMCassist ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"382","DHM HOLDING A/S","Langelinie Allé 29 3 tv, 2100 København Ø",12.59988,55.698936
+"383","2A Pharma ApS","Niels Jernes Vej 10, 9220 Aalborg Øst",9.988313,57.012738
+"384","DESRES SUB DENMARK ApS","Købmagergade 60 1 tv, 1150 København K",12.574913,55.681785
+"385","Bainan Biotech ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"386","BIOMODICS ApS","Stengårds Alle 31 A, 2800 Kgs.Lyngby",12.485115,55.765287
+"387","Biotest Facility ApS","Røvedvej 1, 8380 Trige",10.146859,56.305427
+"388","BK Clinical Trials Consulting K/S","Hegnsvej 44, 2850 Nærum",12.543507,55.813844
+"389","kim Andersen ApS","Livjægergade 21 4 th, 2100 København Ø",12.587268,55.697484
+"390","pond A/S","Balticagade 24, 8000 Aarhus C",10.22157,56.156422
+"391","Pipeline Bioresearch ApS","Marselisborg Havnevej 36, 8000 Aarhus C",10.215827,56.138643
+"392","Solsten Diagnostics International ApS","Langdyssen 5, 8200 Aarhus N",10.141801,56.218564
+"393","AndStats ApS","Aurikelvej 20, 2000 Frederiksberg",12.515391,55.669123
+"394","DNASENSE ApS","Niels Jernes Vej 10, 9220 Aalborg Øst",9.988313,57.012738
+"395","Hyamedix ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"396","CLIRECON ApS","Øster Allé 56, 2100 København Ø",12.570561,55.702771
+"397","Anapa Biotech A/S","Venlighedsvej 6, 2970 Hørsholm",12.49426,55.873689
+"398","Immumap Services ApS","Agern Alle 3, 2970 Hørsholm",12.493014,55.872412
+"399","Defos ApS","Sct Jørgensvej 4, 3550 Slangerup",NA,NA
+"400","SN BIOTECH HOLDING ApS","Sandgravvej 6 st tv, 8000 Aarhus C",10.217368,56.1658
+"401","SiteD2 ApS","Hareskovhvilevej 3, 3500 Værløse",12.373857,55.782834
+"402","BEE-PATCH ApS","Nørregårdsvej 14, 4320 Lejre",11.963596,55.598444
+"403","Bifrost Biolabs ApS","Smedeland 7 1, 2600 Glostrup",12.389754,55.680086
+"404","ZP GENERAL PARTNER 1 ApS","Sydmarken 11, 2860 Søborg",12.483439,55.734253
+"405","PrOxi Biotech ApS","Egeskellet 6, 2000 Frederiksberg",12.49634,55.671632
+"406","2N Pharma ApS","Niels Jernes Vej 10, 9220 Aalborg Øst",9.988313,57.012738
+"407","LICA PHARMACEUTICALS A/S","Tuborg Havnepark 2 1 tv, 2900 Hellerup",12.581823,55.724787
+"408","Vigilare Biotech ApS","Lergyden 48, 5492 Vissenbjerg",10.125613,55.379185
+"409","Pure Algae Denmark ApS","Havnecentervej 1, 8500 Grenaa",10.924066,56.4106
+"410","KEM-EN-TEC DEVELOPMENT &amp; LICENSING A/S","Kuldyssen 10, 2630 Taastrup",12.287994,55.648188
+"411","Epivizor ApS","Langdalsparken 19, 8600 Silkeborg",9.625146,56.140073
+"412","Cell2Cure ApS","Kajerødgård 9, 3460 Birkerød",12.422623,55.846381
+"413","KJ Bio A/S","Skanderborgvej 193, 8382 Hinnerup",10.028316,56.248141
+"414","Methyl Detect ApS","Niels Jernes Vej 10, 9220 Aalborg Øst",9.988313,57.012738
+"415","SMB INNOVATION ApS","Rørholm 12, 4000 Roskilde",12.111193,55.658752
+"416","V-BIOTEK HOLDING ApS","Vimmelskaftet 43, 1161 København K",12.57518,55.678569
+"417","STIG GÜNTHER ApS","Bakkekammen 72, 3600 Frederikssund",12.075109,55.865479
+"418","BOJESEN AND PETERSEN BIOTECH ApS","Strandboulevarden 23 st th, 2100 København Ø",12.589708,55.699814
+"419","CPH Proteomics ApS","Brovænget 29, 2700 Brønshøj",12.45801,55.706154
+"420","Microbial Data Analyses ApS","Skt. Lucas Kirkeplads 8 st th, 8000 Aarhus C",NA,NA
+"421","COBO Scientific ApS","Bækholmen 25, 2760 Måløv",12.318614,55.744857
+"422","ClearDynamic ApS","Spiesgade 3, 9400 Nørresundby",9.914573,57.061143
+"423","OLE USSING ApS","Gregers Nørgårds Vej 9, 9000 Aalborg",9.872764,57.029889
+"424","ZP GENERAL PARTNER 2 ApS","Sydmarken 11, 2860 Søborg",12.483439,55.734253
+"425","MCT Bioseparation Aps","Hollandsvej 5 H st, 2800 Kongens Lyngby",11.325022,55.391738
+"426","SNIPR Biome ApS","Lersø Parkallé 44 5, 2100 København Ø",12.556916,55.707854
+"427","Afyx Therapeutics A/S","Lergravsvej 57 2 tv, 2300 København S",12.625818,55.664313
+"428","The Quality Living ApS","Hjorthøj 29, 2800 Kongens Lyngby",12.537004,55.796578
+"429","MINERVAX ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"430","Renescience A/S","Kraftværksvej 53, 7000 Fredericia",9.623871,55.515935
+"431","MonTa Biosciences ApS","Diplomvej 377 1, 2800 Kongens Lyngby",12.5129786,55.7824598
+"432","UNIBIO A/S","Langebjerg 1, 4000 Roskilde",12.145912,55.646568
+"433","BIOPORTO DIAGNOSTICS A/S","Tuborg Havnevej 15 st, 2900 Hellerup",12.582695,55.726812
+"434","ZP SPV 3 K/S","Sydmarken 11, 2860 Søborg",12.483439,55.734253
+"435","Initiator Pharma A/S","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"436","BLUSENSE DIAGNOSTICS APS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"437","Vipergen R &amp; D IV K/S","Gammel Kongevej 23 A 1, 1610 København V",12.556046,55.673666
+"438","Muna Therapeutics ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"439","EXPRES2ION BIOTECHNOLOGIES ApS","Agern Alle 1, 2970 Hørsholm",12.492919,55.872775
+"440","INSUSENSE ApS","Scherfigsvej 7, 2100 København Ø",12.57991,55.721895
+"441","CytoKi Pharma ApS","Tuborg Boulevard 12 3, 2900 Hellerup",12.5765281,55.7267905
+"442","STENOCARE A/S","Nyholmsvej 4, 8930 Randers NØ",10.082751,56.473111
+"443","Biograil ApS","Slettehavevej 77, 4690 Haslev",11.996031,55.278268
+"444","ADCendo ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"445","HyperBio Therapeutics ApS","Stærmosevej 12, 7120 Vejle Øst",9.59713,55.716288
+"446","Ovodan Biotech A/S","Havnegade 36, 5000 Odense C",10.380924,55.414121
+"447","Kariya Pharmaceuticals ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"448","Cephagenix ApS","Smedeland 26 B, 2600 Glostrup",12.3908,55.681205
+"449","COBO Technologies Aps","Kong Georgs Vej 12 A 2, 2000 Frederiksberg",12.5324821,55.6886708
+"450","UNIKUM Therapeutics ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"451","Celvivo ApS","Middelfartvej 469, 5491 Blommenslyst",10.267176,55.391523
+"452","QUR Medical ApS","Ørsted Bygade 5, 4622 Havdrup",12.07901,55.54401
+"453","MING YANG WIND POWER EUROPEAN R&amp;D CENTER ApS","Frederiksborgvej 399, 4000 Roskilde",12.103063,55.692568
+"454","W2GE ApS","Baldershøj 24 C st th, 2635 Ishøj",11.44414,55.830349
+"455","Betamab ApS","Hørsholmvej 11, 3050 Humlebæk",12.492931,55.959145
+"456","Chromologics ApS","Maskinvej 5, 2860 Søborg",12.479666,55.741476
+"457","Stillo Holding ApS","Absalonsgade 19 2 th, 1658 København V",12.554857,55.67063
+"458","Twelve Bio ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"459","Biovice Systems ApS","Butikstorvet 4, 9560 Hadsund",10.114045,56.71818
+"460","GlycoSpot ApS","Østmarken 9, 2860 Søborg",12.46961,55.735362
+"461","GeneTelligence ApS","Agern Alle 24, 2970 Hørsholm",12.491707,55.869272
+"462","GlycoDisplay ApS","Blegdamsvej 3, 2200 København N",12.27712,54.97781
+"463","Biostrip ApS","Lindevangsvej 10, 8240 Risskov",10.241465,56.18845
+"464","IBUS INNOVATION A/S","Odinshøjvej 116, 3140 Ålsgårde",12.522118,56.083406
+"465","ZP General Partner 3 ApS","Sydmarken 11, 2860 Søborg",12.483439,55.734253
+"466","ENKAM PHARMACEUTICALS ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"467","Ceremedy ApS","Vangehusvej 17 kl, 2100 København Ø",12.573222,55.719922
+"468","VENDLER ApS","Carolinevej 21, 2900 Hellerup",12.579926,55.729391
+"469","Valinor Aps","Købmagergade 53 2, 1150 København K",12.574973,55.681441
+"470","Tissue-Link ApS","Harhoffs Alle 38, 4100 Ringsted",11.789237,55.439212
+"471","C5 TECHNOLOGIES ApS","Brydehusvej 28, 2750 Ballerup",12.374799,55.727983
+"472","Detalo Instruments Aps","Skovrødvej 3 A, 3460 Birkerød",12.4515729,55.8355267
+"473","Affycon ApS","Espedalen 89, 8240 Risskov",10.221911,56.202289
+"474","Migalis ApS","Gøngehusvej 106, 2950 Vedbæk",12.532572,55.846725
+"475","NOA SIC ApS","Sundgade 54, 6320 Egernsund",9.607542,54.9045
+"476","BIO-MEDICAL CONSULT HOLDING ApS","M.A. Schultz Vej 7, 9000 Aalborg",9.899963,57.043891
+"477","Kriska BioTech ApS","Glerupvej 160, 9631 Gedsted",9.383399,56.694544
+"478","BIOROOTS ApS","Daleåsen 8, 3250 Gilleleje",12.366162,56.102171
+"479","Argo Biotech ApS","Klampenborgvej 248 1 mf, 2800 Kongens Lyngby",12.504395,55.770714
+"480","LOXiGen ApS","Nordlyvej 8, 2930 Klampenborg",12.594836,55.788716
+"481","ENDOGEN ApS","Lerbækvej 9, 8240 Risskov",10.233428,56.189119
+"482","COMO HOLDING ApS","Åbogade 15, 8200 Aarhus N",10.187798,56.172331
+"483","ZOCCA CONSULTING ApS","Bornholmsgade 6 1 tv, 1266 København K",12.591147,55.687958
+"484","Endeavour Cells ApS","Strevelinsvej 34, 7000 Fredericia",9.726938,55.527615
+"485","BOOST Pharma ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"486","SNIPR Holdings ApS","Lersø Parkallé 44 5, 2100 København Ø",12.556916,55.707854
+"487","CUMULUS BIO ApS","Sydholmen 8, 2650 Hvidovre",12.470553,55.607709
+"488","NOZ ApS","Yderholmvej 80, 4623 Lille Skensved",12.145508,55.515411
+"489","PNN MEMOCORE ApS","Oldenvej 13, 3490 Kvistgård",12.5004354,55.9928989
+"490","Redl Holding ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"491","Unibio USA ApS","Langebjerg 1, 4000 Roskilde",12.145912,55.646568
+"492","VIRU ApS","Ørsted Bygade 5, 4622 Havdrup",12.07901,55.54401
+"493","PN INVESTMENT ApS","Rigensgade 11 A 2, 1316 København K",12.583225,55.688257
+"494","Simon Glerup Holding ApS","Lerbækvej 9, 8240 Risskov",10.233428,56.189119
+"495","Joachim Vilstrup Holding ApS","Fynsgade 3, 8000 Aarhus C",10.202873,56.164571
+"496","Bee-Patch USA ApS","Nørregårdsvej 14, 4320 Lejre",11.963596,55.598444
+"497","BIOLIGANDS ApS","Skovalléen 4, 5250 Odense SV",10.373885,55.367897
+"498","FEY HOLDING ApS","Middelfartvej 469, 5491 Blommenslyst",10.267176,55.391523
+"499","ASTIM Holding ApS","Floradalen 29, 2830 Virum",12.457512,55.79564
+"500","T.Ø. Holding ApS","Toftevej 12, 3060 Espergærde",12.556416,55.992803
+"501","Devopharma ApS","Strandvejen 301 2, 2920 Charlottenlund",12.5884981,55.7491473
+"502","Safe Implant Technology ApS","Strandvejen 301 2, 2920 Charlottenlund",12.5884981,55.7491473
+"503","CABA APS","Strandvejen 301 2, 2920 Charlottenlund",12.5884981,55.7491473
+"504","Enduro Genetics ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"505","PULMOPHARMA ApS","Bøgebjerg 2 2 4, 8400 Ebeltoft",10.6713983,56.183313
+"506","SDC SENSOR ApS","Espedalen 89, 8240 Risskov",10.221911,56.202289
+"507","ASRØ Holding ApS","Haugesundvej 10, 2850 Nærum",12.525991,55.813125
+"508","PTL Health ApS","Hareskovhvilevej 3, 3500 Værløse",12.373857,55.782834
+"509","Origio A/S","Knardrupvej 2, 2760 Måløv",12.290144,55.755165
+"510","Ferring Pharmaceuticals A/S","Kay Fiskers Plads 11, 2300 København S",12.58016,55.629081
+"511","Landbrug &amp; Fødevarer F.m.b.a","Axeltorv 3, 1609 København V",12.564111,55.675659
+"512","Kræftens Bekæmpelse","Strandboulevarden 49, 2100 København Ø",12.586216,55.702539
+"513","Symphogen A/S","Pederstrupvej 93, 2750 Ballerup",12.33159,55.730186
+"514","Enkam Pharmaceuticals ApS  Under Konkurs","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"515","Evolva Biotech A/S  I Likvidation","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"516","Nuevolution A/S","Rønnegade 8, 5., 2100 København Ø",12.557341,55.707567
+"517","Carlsberg Forskningscenter","J.C. Jacobsens Gade 4, 1799 København V",NA,NA
+"518","Unibio A/S","Langebjerg 1, 4000 Roskilde",12.145912,55.646568
+"519","Sanos A/S","Herlev Hovedgade 82, 2730 Herlev",12.445685,55.721845
+"520","Quantibact A/S","Venlighedsvej 6, 2970 Hørsholm",12.49426,55.873689
+"521","Grundfos Biobooster A/S - Ø2","Poul Due Jensens Vej 19, 8850 Bjerringbro",9.678917,56.385595
+"522","Bioplus ApS  Under Konkurs","Kajakvej 2, 2770 Kastrup",12.653931,55.637335
+"523","Stemform A/S","Gyngemose Parkvej 74, 2860 Søborg",12.476753,55.728405
+"524","Perfect Stevia ApS  Under Konkurs","Agro Food Park 13, 8200 Aarhus N",10.158244,56.201091
+"525","Idun Genomics IVS  Under Tvangsopløsning","Rosmosevej 8, 3450 Allerød",12.378561,55.872853
+"526","Civi Biopharma A/S","Sundkrogsgade 21, 2100 København Ø",12.592722,55.713556
+"527","Ljos IVS  Under Tvangsopløsning","Skovvangsvej 17, 3670 Veksø Sjælland",12.239184,55.767872
+"528","Unibio A/S","Asnæsvej 2A, 4400 Kalundborg",11.114985,55.667519
+"529","Draupnir Bio ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"530","Civi Biopharma A/S","Agern Alle 24, 2970 Hørsholm",12.491707,55.869272
+"531","Snipr Biome ApS","Rønnegade 2, 5., 2100 København Ø",12.55746,55.708087
+"532","Consibio ApS","Sindalsvej 37, st., 8240 Risskov",10.217247,56.208203
+"533","Biobrandaware","Rungsted Strandvej 173, 2960 Rungsted Kyst",12.538871,55.891403
+"534","Immunaware ApS","Agern Alle 1, 2970 Hørsholm",12.492919,55.872775
+"535","Biomodics ApS","Fjeldhammervej 15, 2610 Rødovre",12.440419,55.674776
+"536","Methyl Detect, Aarhus","Bartholins Allé 6A, 8000 Aarhus C",10.205808,56.168285
+"537","Qiagen Aarhus A/S","Skelstedet 16, 2950 Vedbæk",12.531596,55.8386
+"538","Biogenity ApS","Niels Jernes Vej 10, 9220 Aalborg Øst",9.988313,57.012738
+"539","Omicsdriven IVS  Under Tvangsopløsning","Østergade 76, 4340 Tølløse",11.773347,55.608777
+"540","Stipe Therapeutics ApS","Inge Lehmanns Gade 10, 8000 Aarhus C",10.215199,56.159024
+"541","The Froglet IVS  Under Konkurs","Himmerlandsgade 10, 3. tv., 9000 Aalborg",9.940849,57.041541
+"542","Pure Algae Denmark ApS","Havnecentervej 1, 8500 Grenaa",10.924066,56.4106
+"543","Oncostress Therapeutics IVS  Under Tvangsopløsning","Messinavej 11, 1., 2300 København S",12.621583,55.659988
+"544","Qlife ApS","Borupvang 3, 2750 Ballerup",12.383222,55.73255
+"545","Riid IVS  Under Tvangsopløsning","Bøssemagergade 15, st. th., 3150 Hellebæk",12.556197,56.069714
+"546","Pentabase Esbjerg","Auktionsgade 5, 6700 Esbjerg",8.427496,55.472284
+"547","Pentabase Aarhus","True Møllevej 6, 8381 Tilst",10.088729,56.184628
+"548","Pentabase Herlev","Herlev Hovedgade 15E, 2730 Herlev",12.452914,55.716773
+"549","Pentabase Aalborg","Lille Borgergade 19, st. th., 9400 Nørresundby",9.925317,57.057106
+"550","Pentabase A/S","Petersmindevej 1A, 5000 Odense C",10.418345,55.402054
+"551","Eurofins Genomics Europe Genotyping A/S","Brendstrupgårdsvej 23, 8200 Aarhus N",10.180362,56.188438
+"552","Eurofins Genomics Europe Genotyping A/S","Terminalgade 1, 2770 Kastrup",12.643812,55.629808
+"553","Eurofins Safer At Work","Ladelundvej 85, 6600 Vejen",9.050304,55.480969
+"554","Draupnir Bio ApS","Palle Juul-Jensens Boulevard 82, 8200 Aarhus N",NA,NA
+"555","Forskningsenhed I Århus, Århus Universitet","Høegh-Guldbergs Gade 10, 8000 Aarhus C",NA,NA
+"556","Ferring Pharmaceuticals A/S","Amager Strandvej 405, 2770 Kastrup",12.6479787,55.6395213
+"557","Celvivo ApS - Odder","Vitavej 71, 8300 Odder",10.153526,55.970061
+"558","Muna Therapeutics ApS","Høegh-Guldbergs Gade 10, 8000 Aarhus C",NA,NA
+"559","B1","Bartholins Allé 1, 8000 Aarhus C",10.205125,56.166119
+"560","Lab Barto","Bartholins Allé 2, 8000 Aarhus C",10.205767,56.166023
+"561","Pentabase Billund Lufthavn","Passagerterminalen 10, 7190 Billund",9.147962,55.746471
+"562","Pentabase Esbjerg Lufthavn","John Tranums Vej 20, 6705 Esbjerg Ø",8.549395,55.521629
+"563","Pentabase Ålborg Lufthavn","Ny Lufthavnsvej 100, 9400 Nørresundby",9.8884063,57.0842681
+"564","Pentabase Kastrup Lufthavn","Amager Landevej 171A, 2770 Kastrup",12.625249,55.625542
+"565","Vitrolife A/S","Jens Juuls Vej 18, 8260 Viby J",10.130689,56.11293
+"566","Nuevolution A/S","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"567","Hovedkontor","Færgevej 2B, 8500 Grenaa",10.928266,56.409386
+"568","Seges Innovation P/S","Agro Food Park 15, 8200 Aarhus N",10.159083,56.200064
+"569","Biophero","Nordensvej 2, 7000 Fredericia",9.642453,55.539569
+"570","Sundew ApS","Maskinvej 5, 2860 Søborg",12.479666,55.741476
+"571","MEDICAL MILITARY CONSULTING V.M.B.A","Damhus Boulevard 100, 2610 Rødovre",12.461161,55.666659
+"572","Evidence Advisor","Ådalsparkvej 39 st th, 2970 Hørsholm",12.502824,55.899146
+"573","Bendixen Medical Writing v/Hanne Bendixen","Øster Farimagsgade 12 1 th, 2100 København Ø",12.57528,55.690126
+"574","ClinPharmaResearch","Klitrosevej 40, 6792 Rømø",8.555313,55.086011
+"575","Helm Consult v/Helena Mejer","Norsvej 9, 1916 Frederiksberg C",12.556044,55.677567
+"576","Lifescience Consulting v/Morten Heide","Gartnerhaven 12, 2800 Kgs.Lyngby",12.488998,55.784342
+"577","AADALBIOTECH ApS","Harhoffs Alle 38, 4100 Ringsted",11.789237,55.439212
+"578","EVAXION BIOTECH A/S","Dr Neergaards Vej 5 F, 2970 Hørsholm",NA,NA
+"579","EL Medical Consulting v/ Ewa Malgorzata Lindenstrøm","Skolekrogen 40, 3500 Værløse",12.392007,55.781618
+"580","Prepchrom v/Jørgen Malthe Mollerup","Christiansholmsvej 26, 2930 Klampenborg",12.58412,55.771753
+"581","ORPHAZYME A/S","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"582","Caballus Biotech v/Charlotte Dyring","Valdemarsvej 10, 2960 Rungsted Kyst",12.521343,55.886746
+"583","Dalides","Rørholm 12, 4000 Roskilde",12.111193,55.658752
+"584","Foreningen for Stigbilledforskning","Landsbyvænget 2, 8464 Galten",9.971497,56.181095
+"585","Speciallæge Jens Ravn Eriksen","Valhalvej 42, 4000 Roskilde",12.09175,55.65382
+"586","Bredgaard Research v/Thomas Bredgaard","K.E. Færgemanns Vej 9, 9000 Aalborg",9.86757,57.023768
+"587","Nordkild life science consulting v/Peter Nordkild","Rigensgade 11 A 2, 1316 København K",12.583225,55.688257
+"588","Encephalon","Danmarksvej 52 B, 2800 Kongens Lyngby",9.391264,56.453462
+"589","BioSim Consult v/Morten Colding-Jørgensen","Ranunkelvej 5, 2820 Gentofte",12.541041,55.73903
+"590","Aktieselskabet af 1. juni 2011 II","Philip Heymans Alle 3, 2900 Hellerup",12.580224,55.724029
+"591","ONCONOX ApS","Kastanievej 25, 2670 Greve",12.275282,55.569106
+"592","UNION therapeutics A/S","Tuborg Havnevej 18, 2900 Hellerup",12.582479,55.72647
+"593","GAUDEO-IK v/Joan Campbell-Tofte","Adolphsvej 10, 2820 Gentofte",12.555545,55.747611
+"594","Biolytics Pharma","Henrik Thomsens Vej 26, 3460 Birkerød",12.421409,55.844375
+"595","Pharmatronics","Gladsaxe Møllevej 96, 2860 Søborg",12.472619,55.744394
+"596","Pfizer Inc","Lautrupvang 8, 2750 Ballerup",12.390757,55.729276
+"597","EIT Health Scandinavian CLC","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"598","bluebird bio (Netherlands) B.V.","Midtermolen 1 2 tv, 2100 København Ø",12.5969,55.696227
+"599","Nordiskt Genresurscenter","Forsøgsvej 1, 4200 Slagelse",11.391328,55.325344
+"600","Ares Genetics GmbH","Nyløkkevej 34, 8340 Malling",10.1968,56.043653
+"601","Innova","Borgmestervangen 10, 2200 KBH N",12.540004,55.701357
+"602","TychoBio IVS","H.P. Ørums Gade 23 st, 2100 København Ø",NA,NA
+"603","Copentest","Willy Brandts Vej 5 3 th, 2450 København SV",12.561862,55.657512
+"604","Scientific Innovation Management","Valdemarsvej 10, 2960 Rungsted Kyst",12.521343,55.886746
+"605","Ultivue EMEA SRL","Kalkbrænderiløbskaj 6, 2100 København Ø",12.591697,55.71346
+"606","Oxford Immunotec Limited","Knud Højgaards Vej 9, 2860 Søborg",12.473623,55.732511
+"607","Timeline Bioresearch AB","Midtermolen 1 2 tv, 2100 København Ø",12.5969,55.696227
+"608","Olink Proteomics AB","Fuglevadsvej 21 A, 2800 Kongens Lyngby",12.5001367,55.7815224
+"609","ProScion ApS","Herlev Hovedgade 205, 2730 Herlev",12.418955,55.725285
+"610","Perfect Stevia ApS","Agro Food Park 13, 8200 Aarhus N",10.158244,56.201091
+"611","Dansk Bioindustri ApS","Søren Frichs Vej 38 K, 8230 Åbyhøj",10.1660199,56.1501367
+"612","BioGredient II ApS","Holmelundsvej 23, 8382 Hinnerup",10.086559,56.23899
+"613","BiologyC","Paradisvænget 10, 2840 Holte",12.483066,55.828617
+"614","FinnTech","Egneborgvej 5, 5600 Faaborg",10.380953,55.156371
+"615","ResoTher Pharma ApS","Dronninggårds Alle 136, 2840 Holte",12.4716542,55.8124292
+"616","DellaValle","Sønder Boulevard 22 1 th, 1720 København V",12.555365,55.668117
+"617","Idun Genomics IVS","Rosmosevej 8, 3450 Allerød",12.378561,55.872853
+"618","LJOS IVS","Skovvangsvej 17, 3670 Veksø Sjælland",12.239184,55.767872
+"619","Larsen Capital Holding ApS","Skt. Lucas Kirkeplads 8, 8000 Aarhus C",NA,NA
+"620","Diagnostic Designs IVS","Gammel Holtevej 108 C, 2840 Holte",12.5020446,55.8394064
+"621","Bio Investment APS","Kløvermarken 7, 2680 Solrød Strand",12.217702,55.538533
+"622","Sundew ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"623","rabøl research v/Helle Rabøl Hansen","Margretheholmsvej 34 4 tv, 1432 København K",12.614942,55.68438
+"624","MFStat","Høgemosevej 19 A, 8380 Trige",10.1455208,56.2424119
+"625","Oncostress Therapeutics IVS","Messinavej 11 1, 2300 København S",12.621583,55.659988
+"626","GaiaZin","Tvedevej 71, 8983 Gjerlev J",10.149238,56.555049
+"627","Toft IFO","Agertoften 20, 2820 Gentofte",12.51143,55.746044
+"628","Antibody Technologies","Wienerbyen 14, 2830 Virum",12.48293,55.792669
+"629","Karby Invest 2018 ApS","Næssundvej 436, 7960 Karby",8.566374,56.753379
+"630","Astra Biotech","Strandboulevarden 66 5 th, 2100 København Ø",12.5883,55.703301
+"631","OH Stat","Stefansgade 15 4 th, 2200 København N",12.544117,55.69554
+"632","eyevi IVS","Jyllingevej 58 4 th, 2720 Vanløse",12.483526,55.691899
+"633","JWSEN","Pilevangsdal 1 A, 2630 Taastrup",12.2565171,55.6661556
+"634","Otzen Consultancy","Minthøjvej 1, 8210 Aarhus V",10.170099,56.168358
+"635","Inscripta Inc.","Tagensvej 22, 2200 København N",12.556568,55.698403
+"636","Chip Diagnostics ApS","Borupvang 3, 2750 Ballerup",12.383222,55.73255
+"637","Pain Consulting /v Kristian Kjær Petersen","Hørsholmvej 33, 9270 Klarup",10.050815,57.007364
+"638","TangGro","Højbyvej 15 A, 4500 Nykøbing Sj",10.434485,55.331067
+"639","Ponics Systems Danmark","Askevej 28, 3300 Frederiksværk",12.03797,55.949797
+"640","MN Biotech Consulting","Harevænget 31, 2791 Dragør",12.638704,55.589904
+"641","Pharma Lab CRO ApS","Søbyvej 11, 2650 Hvidovre",12.492458,55.629686
+"642","PMomics","Skrænten 9, 9520 Skørping",9.894241,56.841393
+"643","UNION therapeutics Research Services ApS","Tuborg Havnevej 18, 2900 Hellerup",12.582479,55.72647
+"644","Symic OA ApS","Herlev Hovedgade 205, 2730 Herlev",12.418955,55.725285
+"645","Marie Skovgaard Consulting","Frederiksberg Bredegade 3 C 4, 2000 Frederiksberg",12.5291297,55.6784562
+"646","MAFJ Consult","Annexgårdsparken 51, 3500 Værløse",12.318114,55.786137
+"647","Compass Beauty Denmark ApS","Jernbanegade 16, 4000 Roskilde",12.084907,55.638241
+"648","Oncotarget Consulting","Gammel Kalkbrænderi Vej 58 4, 2100 København Ø",12.58968,55.704414
+"649","iobio","Hellebækgade 15 st, 2200 København N",12.542726,55.690888
+"650","Dragonfly Therapeutics CPH ApS","Baltorpvej 154, 2750 Ballerup",12.345387,55.729492
+"651","Nykjaer Consult","Skolevangs Allé 1, 8240 Risskov",10.222352,56.194095
+"652","BioClinica ApS","Axeltorv 2, 1609 København V",12.565704,55.675515
+"653","EntoMass Development ApS","Løkkensvej 696, 9480 Løkken",9.819518,57.417963
+"654","Vicore Pharma AB","Lyskær 3 C 1, 2730 Herlev",12.4340347,55.7136483
+"655","L-P Haahr","Skovbakken 24, 3520 Farum",12.39382,55.807896
+"656","HAPPYDIAMOND","Bollervej 82, 8700 Horsens",9.887731,55.835468
+"657","Neumirna Therapeutics ApS","A.C. Meyers Vænge 15, 2450 København SV",NA,NA
+"658","Sjoestroem","Bredgade 56 5, 1260 København K",12.591303,55.685336
+"659","ReGold ApS","Gl. Møllevej 58, 9640 Farsø",9.197193,56.820982
+"660","Faupnir Holding ApS","Korshøjen 83, 8240 Risskov",10.219746,56.201457
+"661","CILcare ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"662","EO Assay Consult","Pilehøjvej 26, 2750 Ballerup",12.39011,55.751585
+"663","BP Life Science &amp; BioPharmaceutical Consulting","Røsnæsvej 84, 4400 Kalundborg",11.042258,55.697282
+"664","Kesmalea Therapeutics ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"665","ARTSMedia Denmark ApS","Kongevejen 149, 2830 Virum",12.484374,55.79275
+"666","Cannabis Pharm ApS","Haldsømindevej 6, 8960 Randers SØ",10.168126,56.427134
+"667","FreeOfStrain ApS","Gøgevang 40, 2970 Hørsholm",12.511692,55.87539
+"668","TideDisc Biotech ApS","Vardegade 2 3 tv, 2100 København Ø",12.587271,55.707074
+"669","Duvold Consulting v/Tore Duvold","Drogdensvej 20, 2791 Dragør",12.670674,55.59086
+"670","Sokol Biotech Consult","Borgmestervej 63, 8700 Horsens",9.829784,55.879297
+"671","Cewatech DK ApS","Boserupvej 3, 3520 Farum",12.392276,55.806992
+"672","Enara Bio Limited","Lyskær 3 C st, 2730 Herlev",12.4340347,55.7136483
+"673","Invitreo Biosciences ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"674","Dania Therapeutics ApS","Sundvænget 36, 2900 Hellerup",12.583953,55.741768
+"675","Økologisk Komplementarselskab ApS","Agro Food Park 15, 8200 Aarhus N",10.159083,56.200064
+"676","Innovationscenter for Økologisk Landbrug P/S","Agro Food Park 15, 8200 Aarhus N",10.159083,56.200064
+"677","Clear Creek Consulting","Overmarken 60, 7000 Fredericia",9.633184,55.520723
+"678","Alcolase ApS","Hesseløgade 56 1 117, 2100 København Ø",12.570145,55.712488
+"679","svp","Schleppegrellsgade 45, 9000 Aalborg",9.901068,57.05307
+"680","Bioomix ApS","Buchwaldsgade 15 1 tv, 5000 Odense C",10.386419,55.406267
+"681","EvodiaBio ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"682","Zafirakos Clinical Research","Strandtoften 13, 2680 Solrød Strand",12.217273,55.522112
+"683","River Stone Biotech ISG ApS","Fruebjergvej 3, 2100 København Ø",12.549398,55.715679
+"684","Stimuliver ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"685","Sanus Proteins I/S","Strandboulevarden 66 3 tv, 2100 København Ø",12.5883,55.703301
+"686","HEI Therapeutics ApS","Ole Maaløes Vej 3 3, 2200 København N",12.556294,55.69883
+"687","Commit Biologics ApS","Bakkelyparken 3 B, 8680 Ry",9.766907,56.0852537
+"688","Scibiome ApS","Clacksvej 6, 2840 Holte",12.451195,55.807637
+"689","Infectio","Skæring Sandager 52, 8250 Egå",10.307156,56.231479
+"690","iNotify ApS","Ole Maaløes Vej 3, 2200 København N",12.556294,55.69883
+"691","Orbis Medicines ApS","Stærmosevej 12, 7120 Vejle Øst",9.59713,55.716288
+"692","Genecis Bioindustries ApS","Store Kongensgade 40 H 2, 1264 København K",12.586699,55.682861
+"693","IMCOR ApS","Søtoften 27, 8250 Egå",10.287104,56.214091
+"694","BettaSensing ApS","Vestervang 5 st 501, 8000 Aarhus C",11.885221,54.67788
+"695","RoslevConsulting","Buskelundtoften 17, 8600 Silkeborg",9.507329,56.183016
