@@ -1,38 +1,39 @@
 ---
 title: "DDP course project"
 author: "David Lennox-Hvenekilde"
-date: "12/02/2022"
+date: "20/02/2022"
 output: html_document
 ---
-
+  
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 ```
 
-## Mapping the Synthetic Biology start-up ecosystem in Denmark
-Denmark has an history of innovation in life sciences, compared to it's small size. This has historically been driven largely by veritable pharmaceutical giants like Novo Nordisk. Recently, more focus is being put on the use of Biology to solve other societal issues. This includes replacing traditional fossil fuel-based chemical and fuel manufacturing (Industrial Biotechnology) or food production (Food Biotechnology). To achieve this, one need harness the power of biology to redesign living organisms, often refereed to as Synthetic Biology. While the definition of synthetic biology can be fluid, in this report it will be used as an umbrella term for high-tech biotechnology whose sole purpose is not pharmaceuticals. This will include "pick-an-shovel" companies that develop biological products or services aimed at the biotech industry.
-
-Maybe star-ups and SMEs are a better name
+## Mapping the Biotech industry ecosystem in Denmark
+Denmark has an history of innovation in life sciences, compared to it's small size. In this project for *Developing Data Products: R Markdown and Leaflet*.  This is of interest to me, as I current work as a Scientist in a Danish Biotech company. Here i will map the physical locations of Danish Biotechnology companies, in Denmark
 
 
-### Goal of analysis
-Create a dashboard for visualizing physical locations of Synthetic Biology start-up companies
+### Data used
+The dataset for this project has been scraped from [Proff.dk](https://proff.dk), which is a Danish website that shows information about all registered Danish companies. You can search companies by Industry. You have to may to get the data in a .csv file, and they do not have latitude/longitude for the companies. This means that some effort was put into retrieving and cleaning the data to make it useful, and the data gathering actually took ~10 times longer than making this simple RMD file. You can see how the data retrieval/cleaning was done in the a separate R file: [DDPcourseproject_datascrape.R](https://github.com/DavidL-H/Biotech-in-Denmark/blob/main/DDPcourseproject_datascrape.R). We will just read the .csv file that is the output of this script:
 
-### Resources used for analysis
-* [Linkedin](https://Linkedin.com/) - Accesses via the API with [Rlinedin package](https://CRAN.R-project.org/package=Rlinkedin) 
+```{r BiotechData}
+urlfile<-'https://raw.githubusercontent.com/DavidL-H/Biotech-in-Denmark/main/Biotech_companies_Denmark.csv'
+BiotechCompanies<-read.csv(urlfile)
+BiotechCompanies <- BiotechCompanies[,-1]
+colnames(BiotechCompanies)<-c("Company", "Address", "lng", "lat")
+head(BiotechCompanies)
+```
 
-* [Dansk Biotek](https://danskbiotek.dk/) - Trade organization specializing in Danish Biotechnology, including start-up companies.
+### Mapping Danish Biotech companies:
+Now we have the data we want, and we can easily map it with the package leaflet():
 
 ```{r linkedin}
-summary(cars)
+library(leaflet)
+library(dplyr)
+BiotechCompanies %>%
+  leaflet()%>%
+  addTiles()%>%
+  addMarkers(clusterOptions = markerClusterOptions(),
+             popup = BiotechCompanies$Company)
 ```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
